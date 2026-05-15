@@ -1,4 +1,4 @@
-
+rare VyprVPN Module | server-locations + auto-connect is the best VyprVPN module, featuring server-locations and auto-connect. Secure, fast, and optimized for privacy.
 
 
 
